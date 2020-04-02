@@ -1,3 +1,3 @@
-Tarea Labo 2 PNC
+#Tarea Labo 2 PNC
 
 Username: admin Password: admin
